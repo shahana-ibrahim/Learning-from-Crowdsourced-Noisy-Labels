@@ -82,3 +82,5 @@ More detailed survey and in-depth details of many of these techniques can be fou
 * [CONLL NER](http://fprodrigues.com//deep_ner-mturk.tar.gz)
 * [CIFAR10n](http://noisylabels.com/)
 * [CIFAR100n](http://noisylabels.com/)
+* [ImageNet15n](https://github.com/ductri/COINNet)
+* [Music](https://github.com/shahana-ibrahim/end-to-end-crowdsourcing/tree/master/data/Music)
